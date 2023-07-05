@@ -3,7 +3,7 @@ import json
 
 # protocol = 'https://'
 # host = 'pokemonbattle.me:9104'
-trainer_token = 'df7954480f90410b2ac76f10f72364e9'
+trainer_token = 'вствь_свой_токен'
 
 response = requests.post('https://pokemonbattle.me:9104/pokemons', json = {
     "name": "Пикаааа Чууууу 2",
